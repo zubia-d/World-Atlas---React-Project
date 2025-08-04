@@ -1,0 +1,6 @@
+things to learn:
+promise / async
+related paths
+
+
+useEffect(() => {}, [])  ===> heres how we write useEffects , declares a state variable that you can update directly.
