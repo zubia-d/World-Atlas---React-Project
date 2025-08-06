@@ -4,7 +4,7 @@ export const HeroSection = () => {
   
   return (
     <main className="hero-section main">
-      <div className="container grid grid-two-cols">
+      <div className="container grid ">
         <div className="hero-content">
           <h1 className="heading-xl">
             Explore the World, One Country at a Time.
@@ -17,12 +17,12 @@ export const HeroSection = () => {
             Start Exploring <FaLongArrowAltRight />
           </button>
         </div>
-       <img 
+       {/* <img 
   srcSet="/images/world-map@1x.jpg 1x, /images/world-map@2x.jpg 2x"
   src="/images/world-map.jpg"
   alt="world is beauty"
   className="banner-image"
-/>
+/> */}
 
       </div>
     </main>

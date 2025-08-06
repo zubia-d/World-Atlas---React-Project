@@ -38,7 +38,11 @@ const router = createBrowserRouter([
       },
     ],
   },
-]);
+],
+{
+    basename: "/World-Atlas---React-Project", // 👈 Add this
+  }
+);
 
 const App = () => {
   return <RouterProvider router={router}> </RouterProvider>;

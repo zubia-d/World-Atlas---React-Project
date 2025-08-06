@@ -198,20 +198,20 @@ nav ul {
   letter-spacing: -1px;
 }
 
-.hero-image {
+/* .hero-image {
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */
 
-.container .banner-image {
+/* .container .banner-image {
   width: 100%;
-}
+} */
 
 @media screen and (max-width: 768px) {
-  .hero-content {
+  /* .hero-content {
     order: 1;
-  }
+  } */
 
   .container .banner-image {
     width: 80%;
