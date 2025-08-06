@@ -19,7 +19,7 @@ export const HeroSection = () => {
         </div>
        <img 
   srcSet="/images/world-map@1x.jpg 1x, /images/world-map@2x.jpg 2x"
-  src="/images/world-map.jpg"
+  src="/images/world1.jpg"
   alt="world is beauty"
   className="banner-image"
 />
