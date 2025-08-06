@@ -17,12 +17,7 @@ export const HeroSection = () => {
             Start Exploring <FaLongArrowAltRight />
           </button>
         </div>
-       {/* <img 
-  srcSet="/images/world-map@1x.jpg 1x, /images/world-map@2x.jpg 2x"
-  src="/images/world-map.jpg"
-  alt="world is beauty"
-  className="banner-image"
-/> */}
+    
 
       </div>
     </main>
